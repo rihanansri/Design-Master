@@ -145,12 +145,25 @@
         width: 100% !important;
 
     }
+   
 }
 
 @media only screen and (max-width: 560px) {
-
+    .box__1{
+        width: 90% !important;
+        padding-left: 20px !important;
+    }
+    .box__1 p{
+     font-size: 13px !important;
+    }
     .s4 {
         display: none;
+    }
+    .text-1 {
+        width: 90% !important;
+    }
+    .s_-_2{
+        margin: 1rem !important;
     }
 
 }
