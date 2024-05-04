@@ -70,17 +70,36 @@
 }
 
 @media only screen and (max-width: 767px) {
-    .button0{
+    .FullForm {
+        max-width: 90% !important;
+    }
+
+    footer div form {
+        padding: 13px 5px !important;
+    }
+
+    footer div form input {
+        font-size: 8px !important;
+    }
+
+    #Whatsapp {
+        width: 10% !important;
+    }
+
+    .button0 {
         padding: 0px !important;
         font-size: 12px !important;
         margin-bottom: 20% !important;
     }
-    .s_-_2 p{
-        font-size:  14px !important;
+
+    .s_-_2 p {
+        font-size: 14px !important;
     }
-    .li ul{
+
+    .li ul {
         font-size: 11px !important;
     }
+
     .hello {
         flex-wrap: wrap-reverse;
 
@@ -124,7 +143,7 @@
 
     #pera {
         padding: 30px !important;
-        text-align: left !important;
+        text-align: center !important;
     }
 
     .logo {
@@ -145,24 +164,50 @@
         width: 100% !important;
 
     }
-   
+
+    .div1 .Design {
+        margin: 2rem !important;
+    }                   
+
+    .empty .list-2 {
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+
+    .empty h4 {
+        margin-top: 0px !important;
+        margin-left: 35px !important;
+    }
+    .empty{
+        gap: 0rem !important;
+    }
+    .div3{
+        flex-direction: row-reverse;
+    }
+    .loc{
+        margin-left: 23px;
+    }
 }
 
 @media only screen and (max-width: 560px) {
-    .box__1{
+    .box__1 {
         width: 90% !important;
         padding-left: 20px !important;
     }
-    .box__1 p{
-     font-size: 13px !important;
+
+    .box__1 p {
+        font-size: 13px !important;
     }
+
     .s4 {
         display: none;
     }
+
     .text-1 {
         width: 90% !important;
     }
-    .s_-_2{
+
+    .s_-_2 {
         margin: 1rem !important;
     }
 
